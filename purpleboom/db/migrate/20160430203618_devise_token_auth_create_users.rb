@@ -38,7 +38,6 @@ class DeviseTokenAuthCreateUsers < ActiveRecord::Migration
       t.string :nickname
       t.string :image
       t.string :email
-      t.boolean :weather_filter
 
       ## Tokens
       t.json :tokens

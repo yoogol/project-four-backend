@@ -1,5 +1,15 @@
 https://docs.google.com/spreadsheets/d/1myC0TbXVTo-a6C5vGYBwex6HqQu8dmejL0t9wqo323o/edit#gid=0
 
+1. Create users table
+2. Create chotheitem table
+3. Create colors table
+4. Create clothingitem_color join
+5. Create types table
+6. Create clothingitem_type join
+7. Create weather table
+8. Create clothingitem_weather_maps join
+
+
 Users
 
 id

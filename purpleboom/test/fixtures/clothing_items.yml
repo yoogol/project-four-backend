@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image: MyString
+  last_worn: 2016-05-01 15:22:36
+  user_id: 
+  color: MyString
+  category: MyString
+  type: 
+
+two:
+  image: MyString
+  last_worn: 2016-05-01 15:22:36
+  user_id: 
+  color: MyString
+  category: MyString
+  type: 
